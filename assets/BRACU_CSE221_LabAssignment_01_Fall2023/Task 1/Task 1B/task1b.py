@@ -1,6 +1,6 @@
 #Openning user input and output file
-user_input = open("C:\VS_Contents\22301001_CSE221_Lab01\Task 1\Task 1B\input1b.txt","r")
-output = open("C:\VS_Contents\22301001_CSE221_Lab01\Task 1\Task 1B\output1b.txt","w")
+user_input = open("input1b.txt","r")
+output = open("output1b.txt","w")
 
 num = int(user_input.readline())
 
