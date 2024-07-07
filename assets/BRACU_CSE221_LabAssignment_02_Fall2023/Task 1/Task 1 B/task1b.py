@@ -1,7 +1,7 @@
 #Task 1 B
 
-user_input = open("22301001_CSE221_Lab02\Task 1\Task 1 B\input1b.txt","r")
-output = open("22301001_CSE221_Lab02\Task 1\Task 1 B\output1b.txt","w")
+user_input = open("input1b.txt","r")
+output = open("output1b.txt","w")
 
 line1 = user_input.readline().strip()
 str1 = [int(i) for i in line1.split(" ")]
