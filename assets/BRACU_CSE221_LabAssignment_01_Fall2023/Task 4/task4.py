@@ -1,6 +1,6 @@
 #Openning user input and output file
-user_input = open("C:\VS_Contents\22301001_CSE221_Lab01\Task 4\input4.txt","r")
-output = open("C:\VS_Contents\22301001_CSE221_Lab01\Task 4\output4.txt","w")
+user_input = open("input4.txt","r")
+output = open("output4.txt","w")
 
 num = int(user_input.readline())
 train = []
