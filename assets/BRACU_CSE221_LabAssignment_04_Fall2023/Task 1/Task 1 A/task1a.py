@@ -1,7 +1,7 @@
 #TASK 1A
 
-user_input = open("22301001_CSE221_Lab04\Task 1\Task 1 A\output1a.txt","r")
-output = open("22301001_CSE221_Lab04\Task 1\Task 1 A\output1a.txt","w")
+user_input = open("output1a.txt","r")
+output = open("output1a.txt","w")
 
 import numpy as np
 

@@ -22,8 +22,8 @@ def dijkstra(graph, start):
 
 
 
-user_input = open("22301001_CSE221_Lab06\Task 1\input1.txt", "r")
-output = open("22301001_CSE221_Lab06\Task 1\output1.txt", "w")
+user_input = open("input1.txt", "r")
+output = open("output1.txt", "w")
 
 
 

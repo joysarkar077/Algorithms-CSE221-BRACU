@@ -15,8 +15,8 @@ def mergeSort(arr):
     return isMax(a1, a2)
 
 
-user_input = open("22301001_CSE221_Lab03\Task 2\input2.txt","r")
-output = open("22301001_CSE221_Lab03\Task 2\output2.txt","w")
+user_input = open("input2.txt","r")
+output = open("output2.txt","w")
 
 
 line1 = int(user_input.readline().strip())

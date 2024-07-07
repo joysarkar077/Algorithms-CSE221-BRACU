@@ -20,8 +20,8 @@ def generateBFS(graph,start):
     print("Visited", visited)
 
 
-user_input = open("22301001_CSE221_Lab04\Task 2\input2.txt","r")
-output = open("22301001_CSE221_Lab04\Task 2\output2.txt","w")
+user_input = open("input2.txt","r")
+output = open("output2.txt","w")
 
 N, M = map(int,user_input.readline().strip().split(" "))
 

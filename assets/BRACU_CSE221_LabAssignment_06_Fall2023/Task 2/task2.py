@@ -41,8 +41,8 @@ def find_meeting_point(graph, S, T):
 
 
 
-user_input = open("22301001_CSE221_Lab06\Task 2\input2.txt", "r")
-output = open("22301001_CSE221_Lab06\Task 2\output2.txt", "w")
+user_input = open("input2.txt", "r")
+output = open("output2.txt", "w")
 
 
 

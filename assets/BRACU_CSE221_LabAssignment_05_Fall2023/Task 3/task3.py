@@ -16,8 +16,8 @@ def dfs2(graph, node):
               dfs2(graph, neighbor)
 
 
-user_input = open("22301001_CSE221_Lab05\Task 3\input3.txt", "r")
-output = open("22301001_CSE221_Lab05\Task 3\output3.txt", "w")
+user_input = open("input3.txt", "r")
+output = open("output3.txt", "w")
 
 
 N, M = map(int, user_input.readline().strip().split())

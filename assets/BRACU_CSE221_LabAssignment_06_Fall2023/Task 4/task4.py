@@ -32,8 +32,8 @@ class lowestCost:
 
 
 
-user_input = open("22301001_CSE221_Lab06\Task 4\input4.txt", "r")
-output = open("22301001_CSE221_Lab06\Task 4\output4.txt", "w")
+user_input = open("input4.txt", "r")
+output = open("output4.txt", "w")
 
 
 

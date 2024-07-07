@@ -32,8 +32,8 @@ def course_order_dfs(N, preReq):
     return order[::-1]
 
 
-user_input = open("22301001_CSE221_Lab05\Task 1\Task 1 A\input1a.txt", "r")
-output = open("22301001_CSE221_Lab05\Task 1\Task 1 A\output1a.txt", "w")
+user_input = open("input1a.txt", "r")
+output = open("output1a.txt", "w")
 
 
 N, M = map(int,user_input.readline().strip().split(" "))

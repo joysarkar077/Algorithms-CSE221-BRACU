@@ -1,7 +1,7 @@
 #Task 2 A
 
-user_input = open("22301001_CSE221_Lab02\Task 2\Task 2 A\input2a.txt","r")
-output = open("22301001_CSE221_Lab02\Task 2\Task 2 A\output2a.txt  ","w")
+user_input = open("input2a.txt","r")
+output = open("output2a.txt  ","w")
 
 n = int(user_input.readline().strip())
 line2 = user_input.readline().strip()

@@ -1,8 +1,8 @@
 #TASK 1B
 
 
-user_input = open("22301001_CSE221_Lab04\Task 1\Task 1 B\input1b.txt","r")
-output = open("22301001_CSE221_Lab04\Task 1\Task 1 B\output1b.txt","w")
+user_input = open("input1b.txt","r")
+output = open("output1b.txt","w")
 
 N, M = map(int,user_input.readline().strip().split(" "))
 list1 = [0] * (N+1)
