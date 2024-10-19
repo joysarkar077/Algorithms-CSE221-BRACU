@@ -16,25 +16,50 @@ CSE221 covers efficient algorithms and design techniques like divide and conquer
 2. **Run the following command** to clone the repository:
    ```bash
    git clone https://github.com/joysarkar077/Algorithms-CSE221-BRACU.git
-Once the cloning process is complete, navigate to the cloned repository folder:
-bash
-Copy code
-cd Algorithms-CSE221-BRACU
-How to Open and Use the Files in VSCode
-Open Visual Studio Code.
+3. **Once the cloning process is complete, navigate to the cloned repository folder**:
+   ```bash
+   cd Algorithms-CSE221-BRACU
 
-In the top menu, go to File > Open Folder... and browse to the folder where you cloned the repository.
+### How to Open and Use the Files in VSCode
 
-Select the Algorithms-CSE221-BRACU folder and click Open.
+1. Open Visual Studio Code.
+2. In the top menu, go to File > Open Folder... and browse to the folder where you cloned the repository.
+3. Select the **Algorithms-CSE221-BRACU** folder and click Open.
+4. Now, you can explore the files and edit them using VSCode.
 
-Now, you can explore the files and edit them using VSCode.
+## Topics Covered in CSE221
 
-vbnet
-Copy code
-
-You can copy this code and paste it directly into your `README.md` file on GitHub. Let me know if you need further adjustments!
-
-
-
-
-
+1. **Intro to Time Complexity, RAM Model**
+   - Asymptotic Time Complexity
+2. **Time Complexity (contd.)**
+   - Recursion brush-up: base case, branching, stack
+   - Recursive tree construction: Fibonacci, nCr
+   - Backtracking: Generating all subsets, subset sum
+3. **Searching & Sorting**
+   - Linear, Binary, Ternary Search
+   - Bubble, Insertion, Selection sort: best case, worst case analysis (self-study, labs)
+   - Merge Sort, Quick Sort, Count sort
+4. **Divide and Conquer**
+   - Count inversion (from merge sort - lab), Karatsuba, max sum subarray, finding closest pair of points (optional)
+   - Heap data structure and Heap Sort (self-study)
+   - Recursive time complexity, Master Theorem
+5. **Graph Basics**
+   - Adjacency List, Matrix, Space and Time complexity, Symmetricity property
+   - Dense graph, Sparse graph, Indegree, Outdegree
+6. **BFS and DFS**
+   - BFS and applications: shortest path
+   - DFS, Edge classification
+7. **Cycle Detection & Topological Sorting**
+   - Cycle detection, bipartite/bicolorable graph
+   - DAG, Topological sort, Strongly Connected Components (Kosaraju, Tarjan)
+8. **Shortest Paths and MST**
+   - Dijkstra’s algorithm, Bellman-Ford (Negative cycle detection)
+   - Minimum Spanning Tree (MST): Prim's, Kruskal's (+Disjoint Set Union - DSU)
+9. **Greedy Algorithms**
+   - Time scheduling (Interval scheduling)
+   - Fractional Knapsack, Huffman encoding/decoding
+10. **Dynamic Programming (DP)**
+    - DP Basics, Knapsack 0/1, Longest Common Subsequence (LCS)
+    - Coin Change (how many ways, minimum number of coins)
+    - Recursive and iterative DP formulation, comparison
+11. **P vs NP Problem**
